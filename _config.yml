@@ -23,7 +23,7 @@ repository               : "pshikha/pshikha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof_pic.jpg"
   name             : "Shikha"
   pronouns         : # example: "she/her"  
   bio              : "Astronomy PhD Student"
