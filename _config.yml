@@ -27,7 +27,7 @@ author:
   name             : "Shikha"
   pronouns         : # example: "she/her"  
   bio              : "Astronomy PhD Student"
-  location         : "Louisville"
+  location         : "Louisville, Kentucky"
   employer         : "University of Louisville"
   uri              : # URL
   email            : "shikha.pandey@louisville.edu" 
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-5632-9744"
