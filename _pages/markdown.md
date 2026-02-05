@@ -13,8 +13,10 @@ redirect_from:
 ## Badminton
 I enjoy playing badminton at the UofL Rec Center. While I consider myself an average player, I regularly practice with highly skilled friends, which makes the games both challenging and fun.
 
-![UofL Badminton tournament](/images/bad1.jpeg , width=48)
-![](/images/bad2.jpeg , width=48) 
+<images src="bad1.jpeg" alt="Badminton tournament at UofL " width="100"/>
+
+#![UofL Badminton tournament](/images/bad1.jpeg , width=48)
+#![](/images/bad2.jpeg , width=48) 
 
 
 
