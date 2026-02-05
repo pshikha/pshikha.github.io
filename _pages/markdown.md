@@ -15,7 +15,7 @@ I enjoy playing badminton at the UofL Rec Center. While I consider myself an ave
 
 <div>
 <img src="/images/bad1.jpeg" width="350" height="400"/>
-<img src="/images/bad2.jpeg" width="350" height="375"/>
+<img src="/images/bad2.jpeg" width="350" height="300"/>
 </div>
 
 
