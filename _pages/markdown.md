@@ -14,7 +14,7 @@ redirect_from:
 I enjoy playing badminton at the UofL Rec Center. While I consider myself an average player, I regularly practice with highly skilled friends, which makes the games both challenging and fun.
 
 <div>
-<img src="/images/bad1.jpeg" width="350" height="400"/>
+<img src="/images/bad1.jpeg" width="350" height="400" hspace="30"/>
 <img src="/images/bad2.jpeg" width="350" height="300"/>
 </div>
 
@@ -24,7 +24,7 @@ I enjoy playing badminton at the UofL Rec Center. While I consider myself an ave
 ## Running
 Since starting my PhD, I’ve tried to maintain an intense workout routine, and running has quickly become my sport of choice. I’m up to about five miles and still building my endurance for a mini marathon this April!
 <div>
-<img src="/images/run1.jpeg" width="350" height="450"/>
+<img src="/images/run1.jpeg" width="350" height="450" hspace="30"/r>
 <img src="/images/run2.jpeg" width="350" height="450"/>
 </div>
 
