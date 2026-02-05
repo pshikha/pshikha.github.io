@@ -13,6 +13,10 @@ redirect_from:
 ## Badminton
 I enjoy playing badminton at the UofL Rec Center. While I consider myself an average player, I regularly practice with highly skilled friends, which makes the games both challenging and fun.
 
+![UofL Badminton tournament](images/bad1.jpeg)
+![](images/bad2.jpeg)
+
+
 
 ## Running
 Since starting my PhD, I’ve tried to maintain an intense workout routine, and running has quickly become my sport of choice. I’m up to about five miles and still building my endurance for a mini marathon this April!
