@@ -15,9 +15,6 @@ I enjoy playing badminton at the UofL Rec Center. While I consider myself an ave
 
 <images src="bad1.jpeg" alt="Badminton tournament at UofL " width="100"/>
 
-#![UofL Badminton tournament](/images/bad1.jpeg , width=48)
-#![](/images/bad2.jpeg , width=48) 
-
 
 
 ## Running
