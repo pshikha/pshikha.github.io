@@ -2,12 +2,13 @@
 permalink: /markdown/
 title: "Life Beyond Reading and Coding"
 author_profile: true
+toc:
+  sidebar: right
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-{% include toc %}
 
 ## Badminton
 I enjoy playing badminton at the UofL Rec Center. While I consider myself an average player, I regularly practice with highly skilled friends, which makes the games both challenging and fun.
