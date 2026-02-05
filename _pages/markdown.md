@@ -14,8 +14,8 @@ redirect_from:
 I enjoy playing badminton at the UofL Rec Center. While I consider myself an average player, I regularly practice with highly skilled friends, which makes the games both challenging and fun.
 
 
-![UofL Badminton tournament](/images/bad1.jpeg =100x)
-![](/images/bad2.jpeg =100x) 
+![UofL Badminton tournament](/images/bad1.jpeg =100x){:height="36px" width="36px"}
+![](/images/bad2.jpeg =100x){:height="36px" width="36px"}
 
 
 
