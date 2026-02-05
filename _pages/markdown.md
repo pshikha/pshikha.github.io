@@ -14,9 +14,9 @@ redirect_from:
 I enjoy playing badminton at the UofL Rec Center. While I consider myself an average player, I regularly practice with highly skilled friends, which makes the games both challenging and fun.
 
 <div>
-<img src="/images/bad1.jpeg" width="500" height="300"/>
+<img src="/images/bad1.jpeg" width="300" height="500"/>
+<img src="/images/bad2.jpeg" width="300" height="500"/>
 </div>
-![](/images/bad2.jpeg =100x){:height="36px" width="36px"}
 
 
 
