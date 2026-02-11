@@ -13,4 +13,4 @@ redirect_from:
 <p>
 In addition to this, I am also interested in studying feedback processes in Active Galactic Nuclei. Whether or not AGN accelerates or decelerates star formation in galaxies. It is known that they play an important role in influencing the host galaxy's stellar population but quantifying their exact impact remains extremely challenging due to the complexity of galactic environments and observational limitations.
 </p>   
-</div>
+
