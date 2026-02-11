@@ -8,6 +8,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<h1 class="life-title">Life Beyond Reading and Coding</h1>
 
 
 ## Badminton
