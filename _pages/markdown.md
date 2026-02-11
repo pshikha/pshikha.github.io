@@ -14,8 +14,8 @@ redirect_from:
 <p class="activity-content">
 I enjoy playing badminton at the UofL Rec Center. While I consider myself an average player, I regularly practice with highly skilled friends, which makes the games both challenging and fun.
 <div>
-<img src="/images/bad1.jpg" width="200" height="400" hspace="30"/>
-<img src="/images/bad2.jpg" width="200" height="400"/>
+<img src="/images/bad1.jpg" width="300" height="500" hspace="30"/>
+<img src="/images/bad2.jpg" width="300" height="500"/>
 </div>
 </p>
 
@@ -24,8 +24,8 @@ I enjoy playing badminton at the UofL Rec Center. While I consider myself an ave
 <p class="activity-content">
 Since starting my PhD, I’ve tried to maintain an intense workout routine, and running has quickly become my sport of choice. I’m up to about five miles and still building my endurance for a mini marathon this April!
 <div>
-<img src="/images/run1.jpg" width="200" height="400" hspace="30"/>
-<img src="/images/run2.jpg" width="200" height="400"/>
+<img src="/images/run1.jpg" width="300" height="500" hspace="30"/>
+<img src="/images/run2.jpg" width="300" height="500"/>
 </div>
 </p>
 
@@ -34,8 +34,8 @@ Since starting my PhD, I’ve tried to maintain an intense workout routine, and 
 <p class="activity-content">
 Spending time in nature through long hikes along scenic trails is one of my favorite ways to relax and recharge.
 <div>
-<img src="/images/hike1.jpg" width="200" height="400" hspace="30"/>
-<img src="/images/hike4.jpg" width="200" height="400"/>
+<img src="/images/hike1.jpg" width="300" height="500" hspace="30"/>
+<img src="/images/hike4.jpg" width="300" height="500"/>
 </div>
 </p>
 
@@ -43,6 +43,6 @@ Spending time in nature through long hikes along scenic trails is one of my favo
 <p class="activity-content">
 Only one skiing trip so far, but it turned out to be one of the best experiences — definitely looking forward to going again.
 <div>
-<img src="/images/ski1.jpg" width="200" height="400"/>
+<img src="/images/ski1.jpg" width="300" height="500"/>
 </div>
 </p>
