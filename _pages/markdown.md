@@ -1,11 +1,10 @@
 ---
 permalink: /markdown/
-title: "Life Beyond Reading and Coding"
 author_profile: true
 toc:
   sidebar: right
 redirect_from: 
-  - /md/
+  - /md/`
   - /markdown.html
 ---
 <h1 class="life-title">Life Beyond Reading and Coding</h1>
