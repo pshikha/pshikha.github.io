@@ -7,14 +7,14 @@ redirect_from:
 ---
 
 
-<img src="/images/Glaxy img.jpeg" width="200" >
+<img src="/images/Glaxy img.jpeg" width="400" height="300" >
 
 <div class="bio">
 <h2>Bio</h2>  
-<p> I am a PhD student in Astronomy. My focus is on understanding "Stochasticity of star formation histories." Physical processes like positive feedback, gas accretion or mergers can increase the star formation rate of the galaxy, but it can also decrease due to ram pressure stripping, negative feedback and more. These processes influence galaxy evolution and I study whether these processes happen in random short periods of burstiness or if they happen over a long period of time.
+<p> I am a PhD student in Astronomy. My focus is on understanding "Stochasticity of star formation histories." Physical processes like positive feedback, gas accretion or mergers can increase the star formation rate of the galaxy, but it can also decrease due to ram pressure stripping, negative feedback and more. These processes influence galaxy evolution, and I study whether they occur in short, random bursts or over a long period.
 <p>
 
 <p>
-In addition to this, I am also interested in studying feedback processes in Active Galactic Nuclei. Whether or not AGN accelerates or decelerates star formation in galaxies. It is known that they play an important role in influencing the host galaxy's stellar population but quantifying their exact impact remains extremely challenging due to the complexity of galactic environments and observational limitations.
+I am also interested in studying feedback processes in Active Galactic Nuclei. Whether or not AGN accelerates or decelerates star formation in galaxies. It is known that they play an important role in influencing the host galaxy's stellar population but quantifying their exact impact remains extremely challenging due to the complexity of galactic environments and observational limitations.
 </p>   
 
