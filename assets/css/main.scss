@@ -52,3 +52,18 @@
   font-family: 'Playpen Sans', cursive !important;
 }
 */
+/* Fix icon visibility */
+.author__urls a i,
+.author__urls a svg,
+.author__urls a .svg-inline--fa {
+  color: inherit !important;
+  fill: currentColor !important;
+}
+
+/* Fix dark/light toggle button */
+.theme-toggle,
+.toggle-button,
+button.greedy-nav__toggle {
+  color: inherit !important;
+  background-color: transparent !important;
+}
