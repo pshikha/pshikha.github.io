@@ -43,6 +43,15 @@ header a,
   font-family: 'Shantell Sans', cursive !important;
 }
 
+/* Playpen Sans for everything below the name in sidebar */
+.author__bio,
+.author__urls,
+.author__urls-wrapper,
+.author__urls li,
+.author__urls a,
+.author__content p {
+  font-family: 'Playpen Sans', cursive !important;
+}
 /* Shantell Sans for name in sidebar */
 .author__name,
 h3.author__name {
