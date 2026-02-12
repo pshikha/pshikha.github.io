@@ -69,35 +69,28 @@ $caption-font-family        : 'Roboto', sans-serif;
 
 }
 
-/* ===============================
-   SIDEBAR (Profile section)
-================================= */
-
-.author__name {
-  font-family: 'Shantell Sans', cursive;
+.top-nav, 
+.top-nav h1, 
+.top-nav h2, 
+.top-nav a {
+    font-family: 'Shantell Sans', cursive;
 }
 
-.author__bio,
-.author__urls,
-.author__urls li {
-  font-family: 'Playpen Sans', sans-serif;
+/* Left sidebar content, including your first name */
+.sidebar, 
+.sidebar h1, 
+.sidebar h2, 
+.sidebar p, 
+.sidebar span {
+    font-family: 'Playpen Sans', sans-serif;
+
 }
 
+/* Optional: make your first name stand out */
+.sidebar .first-name {
+    font-weight: bold;
 
-/* ===============================
-   TOP NAVIGATION
-================================= */
-
-.masthead,
-.greedy-nav,
-.greedy-nav a,
-.site-title,
-.nav__list,
-.nav__list a {
-  font-family: 'Shantell Sans', cursive;
 }
-
-
 
 /* ==========================================================================
    Breakpoints
