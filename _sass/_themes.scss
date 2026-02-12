@@ -69,6 +69,35 @@ $caption-font-family        : 'Roboto', sans-serif;
 
 }
 
+/* ======================================
+   Sidebar / Profile (Academic Pages)
+   ====================================== */
+
+/* Name */
+.author__name {
+  font-family: 'Shantell Sans', cursive;
+}
+
+/* Title + location */
+.author__bio,
+.author__location {
+  font-family: 'Playpen Sans', sans-serif;
+}
+
+/* Links (Email, Scholar, GitHub, etc.) */
+.author__urls,
+.author__urls li,
+.author__urls a {
+  font-family: 'Playpen Sans', sans-serif;
+}
+
+/* Navigation (Publications, Teaching, etc.) */
+.sidebar nav,
+.sidebar a {
+  font-family: 'Playpen Sans', sans-serif;
+}
+
+
 
 /* ==========================================================================
    Breakpoints
