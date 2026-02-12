@@ -69,18 +69,27 @@ $caption-font-family        : 'Roboto', sans-serif;
 
 }
 
-.top-nav, 
-.top-nav h1, 
-.top-nav h2, 
-.top-nav a {
+/* Playpen Sans for sidebar text only */
+.sidebar h1,
+.sidebar h2,
+.sidebar p,
+.author__bio,
+.author__urls.social-icons li a span {
+    font-family: 'Playpen Sans', sans-serif;
+}
+
+/* Make sure icons are NOT affected */
+.author__urls.social-icons li a i,
+.author__urls.social-icons li a svg {
+    font-family: inherit;
+}
+
+.top-nav a,
+.masthead__menu a {
     font-family: 'Shantell Sans', cursive;
 }
 
-.sidebar h1, 
-.sidebar h2, 
-.sidebar p {
-    font-family: 'Playpen Sans', sans-serif;
-}
+
 /* ==========================================================================
    Breakpoints
    ========================================================================== */
