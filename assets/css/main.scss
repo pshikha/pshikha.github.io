@@ -45,11 +45,9 @@ header a,
 
 /* Playpen Sans for everything below the name in sidebar */
 .author__bio,
-.author__urls,
-.author__urls-wrapper,
-.author__urls li,
-.author__urls a,
-.author__content p {
+.author__content p,
+.author__urls li a span,
+.author__urls li .label {
   font-family: 'Playpen Sans', cursive !important;
 }
 /* Shantell Sans for name in sidebar */
