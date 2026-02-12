@@ -69,26 +69,32 @@ $caption-font-family        : 'Roboto', sans-serif;
 
 }
 
-/* ======================================
-   Sidebar / Profile (Academic Pages)
-   ====================================== */
+/* ===============================
+   SIDEBAR (Profile section)
+================================= */
 
-/* Sidebar text */
-.sidebar {
-  font-family: 'Playpen Sans', sans-serif;
-}
-
-/* Name */
 .author__name {
   font-family: 'Shantell Sans', cursive;
 }
 
-/* Navigation menu */
-.nav__list,
-.nav__items,
-.nav__items a,
-.nav__title {
+.author__bio,
+.author__urls,
+.author__urls li {
   font-family: 'Playpen Sans', sans-serif;
+}
+
+
+/* ===============================
+   TOP NAVIGATION
+================================= */
+
+.masthead,
+.greedy-nav,
+.greedy-nav a,
+.site-title,
+.nav__list,
+.nav__list a {
+  font-family: 'Shantell Sans', cursive;
 }
 
 
