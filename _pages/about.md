@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-<img src="/images/Glaxy img.jpeg" width="300", height="250">
+<img src="/images/Glaxy img.jpeg" width="200" >
 
 <div class="bio">
 <h2>Bio</h2>  
