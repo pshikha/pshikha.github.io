@@ -35,23 +35,3 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-
-   // your existing imports stay untouched above
-@import "minimal-mistakes";
-
-// ↓ Add your custom font rules HERE, after the last import
-.author__name {
-  font-family: 'Shantell Sans', cursive !important;
-}
-
-.greedy-nav a,
-.masthead__menu-item a,
-.visible-links a {
-  font-family: 'Shantell Sans', cursive !important;
-}
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
