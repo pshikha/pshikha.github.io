@@ -36,22 +36,20 @@
     "layout/archive",
     "layout/sidebar";   /* ← change this last comma to a semicolon! */
 
-/* Shantell Sans for nav */
-nav a, 
-header a,
-.masthead a {
+/* Shantell Sans for nav links only */
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a {
   font-family: 'Shantell Sans', cursive !important;
 }
 
-/* Playpen Sans for everything below the name in sidebar */
+/* Shantell Sans for author name */
+.author__name {
+  font-family: 'Shantell Sans', cursive !important;
+}
+
+/* Playpen Sans for sidebar text only - excludes icons and buttons */
 .author__bio,
 .author__content p,
-.author__urls li a span,
-.author__urls li .label {
+.author__urls li a span.label {
   font-family: 'Playpen Sans', cursive !important;
-}
-/* Shantell Sans for name in sidebar */
-.author__name,
-h3.author__name {
-  font-family: 'Shantell Sans', cursive !important;
 }
