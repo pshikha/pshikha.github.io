@@ -34,4 +34,15 @@
 
     "layout/page",
     "layout/archive",
-    "layout/sidebar",
+    "layout/sidebar";   /* ← change this last comma to a semicolon! */
+
+/* Custom fonts */
+.author__name {
+  font-family: 'Shantell Sans', cursive !important;
+}
+
+.greedy-nav a,
+.masthead__menu-item a,
+.visible-links a {
+  font-family: 'Shantell Sans', cursive !important;
+}
