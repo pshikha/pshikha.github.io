@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-<img src="{{ base_path }}/images/glaxy img.jpeg" width="250">
+<img src="/images/glaxy img.jpeg" width="400">
 
 <div class="bio">
 <h2>Bio</h2>  
