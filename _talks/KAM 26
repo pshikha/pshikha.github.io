@@ -6,11 +6,10 @@ venue: "Science Center, Northern Kentucky University, KY, USA"
 date: 2026-04-11
 ---
 
----
-<img src="/images/IMG_7413.jpeg" width="400" height="300" >
-Conference attendees at the Cincinnati Observatory
-
----
+<figure>
+  <img src="/images/IMG_7413.jpeg" width="200" height="100">
+  <figcaption align="center"><b> At the historic Cincinnati Observatory</figcaption>
+</figure>
 
 
 <p>
