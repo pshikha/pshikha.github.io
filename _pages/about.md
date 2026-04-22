@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="bio">
 <h2>Bio</h2>  
-<p> I am a PhD student in Astronomy. My focus is on understanding "Stochasticity of star formation histories." Physical processes like positive feedback, gas accretion or mergers can increase the star formation rate of the galaxy, but it can also decrease due to ram pressure stripping, negative feedback and more. These processes influence galaxy evolution, and I study whether they occur in short, random bursts or over a long period.
+<p> I am a PhD candidate in Astronomy. My focus is on understanding "Stochasticity of star formation histories." Physical processes like positive feedback, gas accretion or mergers can increase the star formation rate of the galaxy, but it can also decrease due to ram pressure stripping, negative feedback and more. These processes influence galaxy evolution, and I study whether they occur in short, random bursts or over a long period.
 <p>
 
 <p>
