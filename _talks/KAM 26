@@ -6,14 +6,10 @@ venue: "Science Center, Northern Kentucky University, KY, USA"
 date: 2026-04-11
 ---
 
-<figure>
-  <img src="/images/IMG_7413.jpeg" width="200" height="100">
-  <figcaption align="center"><b> At the historic Cincinnati Observatory</figcaption>
+<figure style="text-align: center;">
+  <img src="/images/IMG_7413.jpeg" style="width: 400px; height: auto;">
+  <figcaption><i>At the Cincinnati Observatory</i></figcaption>
 </figure>
-
-| ![At the Cincinnati Observatory](/images/IMG_7413.jpeg) |
-| :---: |
-| *At the Cincinnati Observatory* |
 
 
 <p>
