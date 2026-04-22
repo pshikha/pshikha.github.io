@@ -8,9 +8,10 @@ location: "KY, USA"
 ---
 
 
-<figure>
-  <img src="/images/IMG_2475.jpeg" width="200" height="100">
-  <figcaption align="center"><b> At Berea College</figcaption>
+html
+<figure style="text-align: center; margin: 20px auto;">
+  <img src="/images/IMG_2475.jpeg" style="width: 450px; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="margin-top: 8px;"><i>At Berea College</i></figcaption>
 </figure>
 
 
