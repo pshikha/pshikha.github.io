@@ -7,10 +7,12 @@ date: 2025-04-05
 location: "KY, USA"
 ---
 
----
-<img src="/images/IMG_2475.jpeg" width="200" height="100" >
-At Berea College
----
+
+<figure>
+  <img src="/images/IMG_2475.jpeg" width="200" height="100">
+  <figcaption align="center"><b> At Berea College</figcaption>
+</figure>
+
 
 
 
