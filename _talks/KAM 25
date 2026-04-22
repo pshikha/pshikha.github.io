@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Talk"
 venue: "Berea College"
 date: 2025-04-05
-Location: "KY, USA"
+location: "KY, USA"
 ---
 
 I spoke about research work done in my Master's where we worked on studying stellar populations in Active Galactic Nuclei. We investigated whether feedback from AGN influences star formation using photometric observations form optical telescopes. 
