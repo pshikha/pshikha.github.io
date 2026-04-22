@@ -6,9 +6,11 @@ venue: "Science Center, Northern Kentucky University, KY, USA"
 date: 2026-04-11
 ---
 
-<figure style="text-align: center">
-  <img src="/images/IMG_7413.jpeg" style="width: 250px; height: auto; display: block; margin: 0 auto;">
-  <figcaption><i>At the Cincinnati Observatory</i></figcaption>
+<figure style="text-align: center !important; margin: 1.5em auto; max-width: 400px; border: 1px solid #eee; padding: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); background: #fff;">
+  <img src="/images/IMG_7413.jpeg" style="width: 100%; height: auto; border-radius: 8px; display: block;">
+  <figcaption style="margin-top: 10px; font-size: 0.9em; color: #666; text-align: center !important;">
+    <i>At the Cincinnati Observatory</i>
+  </figcaption>
 </figure>
 
 
