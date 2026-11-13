@@ -12,7 +12,7 @@ site_theme               : "contrast" # The available themes options are "defaul
 title                    : "Shikha Anilkumar Pandey"
 title_separator          : "-"
 name                     : &name "Shikha Anilkumar Pandey"
-description              : &description "Shikha's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Shikha Anilkumar Pandey is an astronomy PhD student at the University of Louisville studying star formation histories and AGN feedback in galaxies."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://pshikha.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "prof_pic.jpg"
   name             : "Shikha"
   pronouns         : # example: "she/her"  
-  bio              : "Astronomy PhD Student"
+  bio              : "PhD Candidate, Physics and Astronomy"
   location         : "Louisville, Kentucky"
   employer         : "University of Louisville"
   uri              : # URL
@@ -35,10 +35,10 @@ author:
   # Academic websites
 #  academia         : # URL
 #  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=1psyhjcAAAAJ"
  # inspire-hep      : # URL
  # impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-5632-9744"
+  orcid            : "https://orcid.org/0009-0007-5632-9744"
   #semantic         : # URL
  # ssrn             : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
