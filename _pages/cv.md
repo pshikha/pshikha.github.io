@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD Candidate in Physics and Astronomy**, University of Louisville, Kentucky, USA (Aug 2024 – present)
+* **Master's in Physics, specialised in Astrophysics**, St. Xavier's College, Mumbai University, India (Aug 2021 – Apr 2023)
 
-Work experience
+Current research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Stochastic Star Formation in Galaxies** (Jan 2026 – ongoing)
+Advisor: Dr. Benne Holwerda, University of Louisville
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Studying stochastic star formation using optical H&alpha; and UV emission to investigate galaxy star formation histories, including bursty and declining phases.
+* Developing a pipeline for spectrophotometric calibration of LADUMA spectra obtained with the Anglo-Australian Telescope.
+* Extracting and analysing H&alpha; emission lines from calibrated spectra to estimate star formation rates in the Chandra Deep Field South.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Master's thesis
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Studying star formation characteristics of galaxies hosting AGN** (Nov 2022 – Apr 2023)
+Advisor: Prof. C.S. Stalin, Indian Institute of Astrophysics, Bangalore ([thesis](https://drive.google.com/file/d/15fL7J8fhDlv9OJMtg-SmbTv0E-9iO9NW/view?usp=sharing))
+
+* Investigated star-forming regions identified in narrow- and broad-band optical filters in a sample of active galaxies.
+* Reduced and analysed observations from the 2-meter Himalayan Chandra Telescope.
+* Tools: IRAF, Source Extractor, SAOImage DS9, Photutils (Linux).
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Service and outreach
 ======
-* Currently signed in to 43 different slack teams
+* **Conference Session Chair**, 19th Graduate Student Research Regional Conference, University of Louisville (Mar 2025)
+* **Physics Writer**, [Science ABC](https://www.scienceabc.com/author/pshikha/) (Jun – Nov 2023). Wrote articles on astrophysics topics including supermassive black holes and star formation.
+
+Workshops and summer schools
+======
+* Peer Review Workshop, American Astronomical Society, Indiana University Bloomington (Oct 2025, in person)
+* Remote Experience for Young Engineers and Scientists (REYES), UC Berkeley Physics Department (Jul – Aug 2023, online)
+* Sagan Exoplanet Summer Hybrid Workshop, NASA Exoplanet Science Institute, Caltech (Jul 2023, online)
+* IIA Summer School, Indian Institute of Astrophysics, Kodaikanal Solar Observatory (Jun 2023, online)
+* Vigyan Vidushi Summer School: Physics, Tata Institute of Fundamental Research (Jul – Aug 2022, in person)
