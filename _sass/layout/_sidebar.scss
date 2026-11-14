@@ -9,6 +9,8 @@
    ========================================================================== */
 
 .sidebar {
+  /* keep the sidebar at its original size (16px base) while the page text is 15px */
+  font-size: 16px;
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 

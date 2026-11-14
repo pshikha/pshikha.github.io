@@ -418,7 +418,8 @@
 
 .page__toc {
   margin: 0 0 1.5em;
-  font-size: $type-size-6;
+  /* same size as before the page text became 15px (12px) */
+  font-size: 12px;
   line-height: 1.4;
 
   @media (min-width: 1000px) {
