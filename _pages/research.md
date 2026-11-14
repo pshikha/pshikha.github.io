@@ -18,10 +18,10 @@ Questions I am working on:
 
 *Advisor: Dr. Benne Holwerda, University of Louisville. Ongoing since January 2026.*
 
-## LADUMA spectra and the Chandra Deep Field South
-
-I am developing a pipeline for the spectrophotometric calibration of LADUMA spectra obtained with the Anglo-Australian Telescope. From the calibrated spectra I extract and analyse H&alpha; emission lines to estimate star formation rates in the Chandra Deep Field South.
-
 ## AGN and star formation
 
 My Master's thesis at the Indian Institute of Astrophysics, Bangalore (advisor: Prof. C.S. Stalin) studied the properties of star-forming regions in a sample of active galaxies, identified in narrow- and broad-band optical filters. I reduced and analysed observations from the 2-meter Himalayan Chandra Telescope. [Read the thesis](https://drive.google.com/file/d/15fL7J8fhDlv9OJMtg-SmbTv0E-9iO9NW/view?usp=sharing).
+
+## Collaborations
+
+* **LADUMA**: Looking At the Distant Universe with the MeerKAT Array
