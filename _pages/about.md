@@ -2,6 +2,8 @@
 permalink: /
 author_profile: true
 toc: true
+toc_image: /images/badminton.jpg
+toc_image_alt: "Playing a badminton doubles game at the UofL Rec Center"
 redirect_from: 
   - /about/
   - /about.html
@@ -33,4 +35,6 @@ See my [research](/research/) for details and my [CV](/cv/) for talks, teaching 
 
 Please reach out if you would like to talk about my research or collaborate.
 
-<p class="contact-line"><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+<p class="contact-line"><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> (university)</p>
+
+<p class="contact-line"><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ site.author.email_personal }}">{{ site.author.email_personal }}</a> (personal)</p>

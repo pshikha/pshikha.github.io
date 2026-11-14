@@ -430,6 +430,14 @@
     margin: 0;
   }
 
+  @media (min-width: 1300px) {
+    width: 160px;
+  }
+
+  @media (min-width: 1600px) {
+    width: 180px;
+  }
+
   .page__toc-title {
     margin: 0 0 0.6em;
     font-weight: 600;
@@ -479,7 +487,7 @@
 
   img {
     flex: 0 0 auto;
-    width: 280px;
+    width: 220px;
     max-width: 45%;
     height: auto;
     border-radius: 6px;
@@ -493,5 +501,25 @@
       width: 100%;
       max-width: 100%;
     }
+  }
+}
+
+/* Photo in the right-hand column, under the table of contents (wide screens only) */
+.page__toc-image {
+  display: none;
+
+  @media (min-width: 1100px) {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 1.5em;
+    border-radius: 6px;
+  }
+}
+
+/* On wide screens the photo lives in the right column, so hide the in-text copy */
+@media (min-width: 1100px) {
+  .beyond img {
+    display: none;
   }
 }
