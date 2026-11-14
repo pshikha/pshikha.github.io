@@ -11,26 +11,8 @@ redirect_from:
 
 Education
 ======
-* **PhD Candidate in Physics and Astronomy**, University of Louisville, Kentucky, USA (Aug 2024 – present)
-* **Master's in Physics, specialised in Astrophysics**, St. Xavier's College, Mumbai University, India (Aug 2021 – Apr 2023)
-
-Current research
-======
-**Stochastic Star Formation in Galaxies** (Jan 2026 – ongoing)
-Advisor: Dr. Benne Holwerda, University of Louisville
-
-* Studying stochastic star formation using optical H&alpha; and UV emission to investigate galaxy star formation histories, including bursty and declining phases.
-* Developing a pipeline for spectrophotometric calibration of LADUMA spectra obtained with the Anglo-Australian Telescope.
-* Extracting and analysing H&alpha; emission lines from calibrated spectra to estimate star formation rates in the Chandra Deep Field South.
-
-Master's thesis
-======
-**Studying star formation characteristics of galaxies hosting AGN** (Nov 2022 – Apr 2023)
-Advisor: Prof. C.S. Stalin, Indian Institute of Astrophysics, Bangalore ([thesis](https://drive.google.com/file/d/15fL7J8fhDlv9OJMtg-SmbTv0E-9iO9NW/view?usp=sharing))
-
-* Investigated star-forming regions identified in narrow- and broad-band optical filters in a sample of active galaxies.
-* Reduced and analysed observations from the 2-meter Himalayan Chandra Telescope.
-* Tools: IRAF, Source Extractor, SAOImage DS9, Photutils (Linux).
+* **PhD Candidate in Physics and Astronomy**, University of Louisville, Kentucky, USA (Aug 2024 – present). Advisor: Dr. Benne Holwerda. Research: stochastic star formation in galaxies.
+* **Master's in Physics, specialised in Astrophysics**, St. Xavier's College, Mumbai University, India (Aug 2021 – Apr 2023). Thesis: *Studying star formation characteristics of galaxies hosting AGN*, advisor Prof. C.S. Stalin, Indian Institute of Astrophysics, Bangalore ([thesis](https://drive.google.com/file/d/15fL7J8fhDlv9OJMtg-SmbTv0E-9iO9NW/view?usp=sharing)).
 
 Publications
 ======
