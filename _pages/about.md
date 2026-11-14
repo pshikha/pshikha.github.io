@@ -9,9 +9,9 @@ redirect_from:
 
 <img class="home-banner" src="/images/header-galaxy.svg" alt="Line drawing of a spiral galaxy and stars">
 
-## Hi, I am Shikha Pandey!
+## Hi
 
-Welcome to my website. Here you can find my research, publications, talks, teaching and science writing.
+I am Shikha Pandey. I like studying galaxy evolution using observational data.
 
 ## Research interests
 

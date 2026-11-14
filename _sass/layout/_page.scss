@@ -409,22 +409,25 @@
   margin: 0 0 1.5em;
 }
 
-/* Table of contents at the right of the page (pages with `toc: true`) */
+/* Table of contents (pages with `toc: true`):
+   at the right of the text on screens 1000px and wider,
+   above the text on narrower screens. */
 .page {
   position: relative;
 }
 
 .page__toc {
-  display: none;
+  margin: 0 0 1.5em;
+  /* same size as before the page text became 15px (12px) */
+  font-size: 12px;
+  line-height: 1.4;
 
-  @media (min-width: 1200px) {
-    display: block;
+  @media (min-width: 1000px) {
     position: absolute;
     top: 0.5em;
     right: 0;
     width: 10em;
-    font-size: $type-size-6;
-    line-height: 1.4;
+    margin: 0;
   }
 
   .page__toc-title {
