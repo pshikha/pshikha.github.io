@@ -26,4 +26,6 @@ See my [research](/research/) for details and my [CV](/cv/) for talks, teaching 
 
 <img class="beyond-photo" src="/images/badminton-portrait.jpg" alt="Playing a badminton doubles game at the UofL Rec Center">
 
-Outside of research, I enjoy playing badminton, and I have been playing ever since I came to UofL. I play at the UofL Rec Center and regularly practice with highly skilled friends, which makes the games both challenging and fun.
+Away from my desk, I regularly head to the Rec Center for badminton, a game I have played ever since I came to UofL. My friends there are highly skilled, which keeps every match challenging and fun.
+
+I also go out for the occasional run, and I have completed one mini marathon so far, with hopes of lining up for another soon. For slower moments, there are books, TV shows and movies.
