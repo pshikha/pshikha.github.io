@@ -21,3 +21,16 @@ You can find my papers on [Google Scholar](https://scholar.google.com/citations?
 I study whether galaxies build their stars in short, random bursts or decline smoothly over long periods. Gas accretion, mergers and feedback can raise a galaxy's star formation rate, while ram pressure stripping and negative feedback can lower it, and I want to know how often each happens. I am also interested in how Active Galactic Nuclei (AGN) affect star formation in their host galaxies.
 
 See my [research](/research/) for details and my [CV](/cv/) for talks, teaching and service.
+
+## Beyond research
+
+<div class="beyond">
+  <p>Outside of research, I enjoy playing badminton, and I have been playing ever since I came to UofL. I play at the UofL Rec Center and regularly practice with highly skilled friends, which makes the games both challenging and fun.</p>
+  <img src="/images/badminton.jpg" alt="Playing a badminton doubles game at the UofL Rec Center">
+</div>
+
+## Contact
+
+Please reach out if you would like to talk about my research or collaborate.
+
+<p class="contact-line"><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
