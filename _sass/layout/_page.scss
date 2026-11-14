@@ -408,3 +408,48 @@
   height: auto;
   margin: 0 0 1.5em;
 }
+
+/* Table of contents at the right of the page (pages with `toc: true`) */
+.page {
+  position: relative;
+}
+
+.page__toc {
+  display: none;
+
+  @media (min-width: 1200px) {
+    display: block;
+    position: absolute;
+    top: 0.5em;
+    right: 0;
+    width: 10em;
+    font-size: $type-size-6;
+    line-height: 1.4;
+  }
+
+  .page__toc-title {
+    margin: 0 0 0.6em;
+    font-weight: 600;
+    color: var(--global-text-color-light);
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    margin: 0 0 0.5em;
+  }
+
+  a {
+    color: var(--global-text-color);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-link-color);
+      text-decoration: underline;
+    }
+  }
+}
