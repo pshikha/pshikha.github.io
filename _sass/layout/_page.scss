@@ -488,4 +488,14 @@
   content: "";
   display: table;
   clear: both;
+
+/* CV entries: one line of detail under each title, same spacing as the other bullet lists */
+.cv-entry {
+  margin-bottom: 0.6em;
+}
+
+.cv-meta {
+  display: block;
+  font-size: 0.9em;
+  color: var(--global-text-color-light);
 }
