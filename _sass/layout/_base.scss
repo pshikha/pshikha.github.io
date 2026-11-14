@@ -5,6 +5,8 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  /* base text size (browser default is 16px); all other sizes scale from this */
+  font-size: 15px;
 }
 
 body {
