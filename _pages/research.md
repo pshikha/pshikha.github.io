@@ -26,4 +26,6 @@ My Master's thesis at the Indian Institute of Astrophysics, Bangalore (advisor: 
 
 **LADUMA**: Looking At the Distant Universe with the MeerKAT Array
 
-LADUMA is a deep survey of neutral hydrogen, the gas reservoir galaxies draw on to form stars, made with the MeerKAT radio telescope in South Africa. It observes a single field that includes the Chandra Deep Field South, and aims to show how the gas content of galaxies changed over cosmic time, back to when the Universe was about a third of its present age. I work with optical spectra of this field to study star formation.
+LADUMA is a deep survey of neutral hydrogen, the gas reservoir galaxies draw on to form stars, made with the MeerKAT radio telescope in South Africa, a precursor to the Square Kilometre Array. It is one of the three top-ranked Large Survey Projects on MeerKAT and aims to be the deepest neutral hydrogen survey to date, using 3,424 hours on a single pointing that includes the Extended Chandra Deep Field South.
+
+Its goal is to detect neutral hydrogen in galaxies out to redshifts above 1, which would show how the gas content of galaxies changed over cosmic time. The name comes from "laduma", the Zulu exclamation (literally "it thunders") shouted when a goal is scored in football. The volume the survey probes is also shaped like a vuvuzela horn, because MeerKAT's field of view grows at lower frequencies. I work with optical spectra of the same field to study star formation.
