@@ -24,4 +24,6 @@ My Master's thesis at the Indian Institute of Astrophysics, Bangalore (advisor: 
 
 ## Collaborations
 
-* **LADUMA**: Looking At the Distant Universe with the MeerKAT Array
+**LADUMA**: Looking At the Distant Universe with the MeerKAT Array
+
+LADUMA is a deep survey of neutral hydrogen, the gas reservoir galaxies draw on to form stars, made with the MeerKAT radio telescope in South Africa. It observes a single field that includes the Chandra Deep Field South, and aims to show how the gas content of galaxies changed over cosmic time, back to when the Universe was about a third of its present age. I work with optical spectra of this field to study star formation.
