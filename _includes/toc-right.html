@@ -15,6 +15,7 @@
         <li><a href="#{{ toc_id }}">{{ toc_text }}</a></li>
       {% endfor %}
     </ul>
+    {% if page.toc_image %}<img class="page__toc-image" src="{{ page.toc_image }}" alt="{{ page.toc_image_alt }}">{% endif %}
   </aside>
   {% endif %}
 {% endif %}
