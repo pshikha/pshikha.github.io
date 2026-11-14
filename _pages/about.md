@@ -16,10 +16,6 @@ I am also interested in feedback processes in Active Galactic Nuclei (AGN): whet
 
 [More about my research](/research/)
 
-## Current work
-
-I am building a spectrophotometric calibration pipeline for LADUMA spectra from the Anglo-Australian Telescope. I use the H&alpha; emission lines in the Chandra Deep Field South to estimate star formation rates, which I combine with UV emission to study bursty and declining phases of star formation.
-
 ## Education
 
 * PhD Candidate in Physics and Astronomy, University of Louisville (2024 – present)
