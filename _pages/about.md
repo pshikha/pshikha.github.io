@@ -28,4 +28,4 @@ See my [research](/research/) for details and my [CV](/cv/) for talks, teaching 
 
 Away from my desk, I regularly head to the Rec Center for badminton, a game I have played ever since I came to UofL. My friends there are highly skilled, which keeps every match challenging and fun.
 
-I also go out for the occasional run, and I have completed one mini marathon so far, with hopes of lining up for another soon. For slower moments, there are books, TV shows and movies.
+I also go out for an occasional run, and have completed one mini marathon so far, with hopes of lining up for another soon. For slower moments, there are books, TV shows and movies.
