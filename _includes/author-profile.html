@@ -33,10 +33,6 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{% if author.email_personal %}University email{% else %}{{ site.data.ui-text[site.locale].email_label | default: "Email" }}{% endif %}</a></li>
-        {% if author.email_personal %}<li><a href="mailto:{{ author.email_personal }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Personal email</a></li>{% endif %}
-      {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
@@ -173,5 +169,15 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
     </ul>
+    {% if author.email or author.email_personal %}
+    <div class="author__contact">
+      <h4 class="author__contact-title">Contact me</h4>
+      <p>Please reach out if you would like to talk about my research or collaborate.</p>
+      <ul>
+        {% if author.email %}<li><a href="mailto:{{ author.email }}">{{ author.email }}</a></li>{% endif %}
+        {% if author.email_personal %}<li><a href="mailto:{{ author.email_personal }}">{{ author.email_personal }}</a></li>{% endif %}
+      </ul>
+    </div>
+    {% endif %}
   </div>
 </div>
