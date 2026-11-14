@@ -6,24 +6,23 @@ redirect_from:
   - /about.html
 ---
 
+I am a PhD candidate in Physics and Astronomy at the University of Louisville, advised by Dr. Benne Holwerda. I study how galaxies form their stars, and in particular whether star formation proceeds in short, random bursts or declines smoothly over long periods. My papers are listed on [Google Scholar](https://scholar.google.com/citations?user=1psyhjcAAAAJ) and [ORCID](https://orcid.org/0009-0007-5632-9744).
 
-<div class="bio">
-<h2>Bio</h2>  
-<p> My focus is on understanding "Stochasticity of star formation histories." Physical processes like positive feedback, gas accretion or mergers can increase the star formation rate of the galaxy, but it can also decrease due to ram pressure stripping, negative feedback and more. These processes influence galaxy evolution, and I study whether they occur in short, random bursts or over a long period.
-<p>
+## Research interests
 
-<p>
-I am also interested in studying feedback processes in Active Galactic Nuclei. Whether or not AGN accelerates or decelerates star formation in galaxies. It is known that they play an important role in influencing the host galaxy's stellar population but quantifying their exact impact remains extremely challenging due to the complexity of galactic environments and observational limitations.
-</p>   
+My focus is on understanding the stochasticity of star formation histories. Physical processes like positive feedback, gas accretion or mergers can increase the star formation rate of a galaxy, but it can also decrease due to ram pressure stripping, negative feedback and more. These processes influence galaxy evolution, and I study whether they occur in short, random bursts or over a long period.
 
+I am also interested in feedback processes in Active Galactic Nuclei (AGN): whether AGN accelerate or decelerate star formation in their host galaxies. AGN are known to play an important role in shaping a galaxy's stellar population, but quantifying their exact impact remains challenging because of the complexity of galactic environments and observational limitations.
 
-<h2>Current research</h2>
-<p>
-I am a PhD candidate in Physics and Astronomy at the University of Louisville, advised by Dr. Benne Holwerda. My current project, <em>Stochastic Star Formation in Galaxies</em>, uses optical H&alpha; and UV emission to study star formation histories, including bursty and declining phases. I am building a spectrophotometric calibration pipeline for LADUMA spectra from the Anglo-Australian Telescope and using the H&alpha; lines in the Chandra Deep Field South to estimate star formation rates.
-</p>
+[More about my research](/research/)
 
-<h2>Education</h2>
-<ul>
-  <li>PhD Candidate in Physics and Astronomy, University of Louisville (2024 – present)</li>
-  <li>M.Sc. in Physics (Astrophysics), St. Xavier's College, Mumbai University (2021 – 2023)</li>
-</ul>
+## Current work
+
+I am building a spectrophotometric calibration pipeline for LADUMA spectra from the Anglo-Australian Telescope. I use the H&alpha; emission lines in the Chandra Deep Field South to estimate star formation rates, which I combine with UV emission to study bursty and declining phases of star formation.
+
+## Education
+
+* PhD Candidate in Physics and Astronomy, University of Louisville (2024 – present)
+* M.Sc. in Physics (Astrophysics), St. Xavier's College, Mumbai University (2021 – 2023)
+
+See my [CV](/cv/) for talks, teaching and service.
