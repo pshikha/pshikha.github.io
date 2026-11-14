@@ -35,7 +35,7 @@ Teaching
 Service and outreach
 ======
 * **Conference Session Chair**, 19th Graduate Student Research Regional Conference, University of Louisville (Mar 2025)
-* **Physics Writer**, [Science ABC](https://www.scienceabc.com/author/pshikha/) (Jun – Nov 2023). Wrote articles on astrophysics topics including supermassive black holes and star formation.
+* **Physics Writer**, [Science ABC](https://www.scienceabc.com/author/pshikha/) (2023 – 2024). Wrote articles on astrophysics topics including supermassive black holes and star formation. [All articles](/writing/).
 
 Workshops and summer schools
 ======
