@@ -6,6 +6,7 @@ permalink: /teaching/2023-guest-lecturer-adypu
 venue: "Ajeenkya DY Patil University"
 date: 2023-12-01
 location: "Pune, Maharashtra, India"
+citation: "Ajeenkya DY Patil University, Pune, India, Dec 2023"
 ---
 
 December 2023
