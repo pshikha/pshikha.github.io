@@ -464,3 +464,34 @@
     color: var(--global-text-color-light);
   }
 }
+
+/* Beyond research: text on the left, photo on the right (stacked on small screens) */
+.beyond {
+  display: flex;
+  align-items: center;
+  gap: 1.5em;
+  margin: 0 0 1em;
+
+  p {
+    flex: 1 1 auto;
+    margin: 0;
+  }
+
+  img {
+    flex: 0 0 auto;
+    width: 280px;
+    max-width: 45%;
+    height: auto;
+    border-radius: 6px;
+  }
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    align-items: stretch;
+
+    img {
+      width: 100%;
+      max-width: 100%;
+    }
+  }
+}

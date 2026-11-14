@@ -22,6 +22,13 @@ I study whether galaxies build their stars in short, random bursts or decline sm
 
 See my [research](/research/) for details and my [CV](/cv/) for talks, teaching and service.
 
+## Beyond research
+
+<div class="beyond">
+  <p>Outside of research, I enjoy playing badminton, and I have been playing ever since I came to UofL. I play at the UofL Rec Center and regularly practice with highly skilled friends, which makes the games both challenging and fun.</p>
+  <img src="/images/badminton.jpg" alt="Playing a badminton doubles game at the UofL Rec Center">
+</div>
+
 ## Contact
 
 Please reach out if you would like to talk about my research or collaborate.
