@@ -5,7 +5,7 @@ permalink: /writing/
 author_profile: true
 ---
 
-I was a physics writer for [Science ABC](https://www.scienceabc.com/author/pshikha/), a popular science website, where I explained astrophysics and physics topics in plain language. The articles are listed below with their publication dates.
+I worked as a physics writer for [Science ABC](https://www.scienceabc.com/author/pshikha/), covering topics for a general audience. The articles are listed below with their publication dates.
 
 ## 2025
 
