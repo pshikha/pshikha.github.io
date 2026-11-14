@@ -11,7 +11,10 @@ redirect_from:
 
 ## Hi
 
-I am Shikha Pandey. I like studying galaxy evolution using observational data.
+I am Shikha Pandey, a PhD candidate in Physics and Astronomy with a research focus on star formation and galaxy evolution. I use observational data, particularly galaxy spectra, to investigate star formation properties and understand the physical processes that shape galaxies and drive their evolution over cosmic time.
+I also enjoy explaining astronomy to general audiences, through public talks and science writing.
+
+You can find my papers on [Google Scholar](https://scholar.google.com/citations?user=1psyhjcAAAAJ) and [ORCID](https://orcid.org/0009-0007-5632-9744).
 
 ## Research interests
 
