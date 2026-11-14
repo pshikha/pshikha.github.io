@@ -24,4 +24,6 @@ See my [research](/research/) for details and my [CV](/cv/) for talks, teaching 
 
 ## Beyond research
 
+<img class="beyond-photo" src="/images/badminton-portrait.jpg" alt="Playing a badminton doubles game at the UofL Rec Center">
+
 Outside of research, I enjoy playing badminton, and I have been playing ever since I came to UofL. I play at the UofL Rec Center and regularly practice with highly skilled friends, which makes the games both challenging and fun.

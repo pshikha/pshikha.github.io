@@ -464,3 +464,28 @@
     }
   }
 }
+
+/* Beyond research: portrait photo at the right edge, text wraps beside it */
+.beyond-photo {
+  float: right;
+  width: 240px;
+  max-width: 40%;
+  height: auto;
+  margin: 0.3em 0 1em 2em;
+  border-radius: 4px;
+
+  @media (max-width: 600px) {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 320px;
+    margin: 0 0 1em;
+  }
+}
+
+/* make sure a floated photo never spills into the footer */
+.page__content::after {
+  content: "";
+  display: table;
+  clear: both;
+}
