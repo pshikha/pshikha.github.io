@@ -25,7 +25,3 @@ I am developing a pipeline for the spectrophotometric calibration of LADUMA spec
 ## AGN and star formation
 
 My Master's thesis at the Indian Institute of Astrophysics, Bangalore (advisor: Prof. C.S. Stalin) studied the properties of star-forming regions in a sample of active galaxies, identified in narrow- and broad-band optical filters. I reduced and analysed observations from the 2-meter Himalayan Chandra Telescope. [Read the thesis](https://drive.google.com/file/d/15fL7J8fhDlv9OJMtg-SmbTv0E-9iO9NW/view?usp=sharing).
-
-## Collaborations
-
-I am a co-author of *Overlap Zoo Beta*, a catalogue of about 800 occulting galaxy pairs in the DESI Legacy Survey found through citizen science (PASA, 2026). [Read on arXiv](https://arxiv.org/abs/2602.22079).
