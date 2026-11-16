@@ -357,3 +357,51 @@
     white-space: nowrap;
   }
 }
+
+/* Phones and small tablets (below the desktop sidebar breakpoint):
+   larger photo with the name beside it, contact details across the full width. */
+@media (max-width: 924px) {
+  .sidebar > [itemscope] {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6em 1em;
+  }
+
+  .author__avatar {
+    display: block;
+    flex: 0 0 76px;
+    width: 76px;
+
+    img {
+      width: 76px;
+      max-width: 76px;
+      height: auto;
+    }
+  }
+
+  .author__content {
+    display: block;
+    flex: 1 1 0;
+    min-width: 0;
+    padding: 0;
+    line-height: 1.35;
+  }
+
+  .author__urls-wrapper {
+    display: block;
+    flex: 1 1 100%;
+  }
+
+  .sidebar .author__contact {
+    margin-top: 0.9em;
+  }
+
+  /* make the "More links" button easy to see */
+  .author__urls-wrapper .btn {
+    color: var(--global-text-color);
+    border: 1px solid var(--global-dark-border-color);
+    background: transparent;
+  }
+}
+

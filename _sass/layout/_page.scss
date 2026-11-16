@@ -454,6 +454,19 @@
     margin: 0 0 0.5em;
   }
 
+  /* on small screens the list runs across the page instead of down it */
+  @media (max-width: 999px) {
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0 1.2em;
+    }
+
+    li {
+      margin-bottom: 0.3em;
+    }
+  }
+
   a {
     color: var(--global-text-color);
     text-decoration: none;
